@@ -101,6 +101,17 @@ diperbarui, beserta berkas pendukung sesuai instruksi modul.
 
 ## Deklarasi AI
 
-AI digunakan sebagai alat bantu pembelajaran dan pengembangan
-program. Pemahaman serta tanggung jawab terhadap hasil akhir
-program tetap berada pada saya sebagai mahasiswa.
+- **AI yang digunakan:** ChatGPT (OpenAI).
+- **Tujuan penggunaan:** Membantu memeriksa dan memperbaiki program `sinilai.cpp`,
+  melengkapi bagian program yang belum selesai, serta merapikan dokumentasi `README.md`.
+- **Prompt yang digunakan:** "Perbaiki `sinilai.cpp` dan `README.md` pada proyek P06
+  Perulangan Lanjutan. Lengkapi program SiNilai agar dapat dikompilasi dan dijalankan,
+  lalu sesuaikan README dengan fungsi program dan hasil pengujiannya."
+- **Umpan balik AI:** AI menyarankan penyelesaian pengolahan nilai mahasiswa, pemformatan
+  keluaran dengan `iomanip`, penghitungan huruf mutu menggunakan `switch`, pencarian
+  nilai tertinggi, dan penyajian sebaran huruf mutu dengan perulangan. AI juga membantu
+  memperbarui petunjuk kompilasi, cara menjalankan program, serta ringkasan hasil uji.
+- **Verifikasi oleh mahasiswa:** Kode dan dokumentasi hasil bantuan AI perlu diperiksa
+  kembali. Program dikompilasi dan dijalankan menggunakan `contoh_masukan.txt`, lalu
+  hasilnya dibandingkan dengan tabel hasil yang dicantumkan pada README.
+
